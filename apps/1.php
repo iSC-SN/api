@@ -14,6 +14,6 @@
    "site_name": "Suriyaa Kudo's Homepage",
    "title": "Suriyaa Kudo's Homepage",
    "type": "website",
-   "updated_time": "2014-07-19T10:34:12+0000",
+   "updated_time": "2014-07-19",
    "url": "http://suriyaakudo.bplaced.net/"
 }
