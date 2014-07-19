@@ -1,4 +1,4 @@
-api
+API
 ===
 
 The API is the primary way to get data in and out of iSC SN's social systems.
